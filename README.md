@@ -13,3 +13,8 @@
   - Each with one JST-XH 4p (DIN, DOUT, 5V, GND) and one JST-XH 3p (DIN, 5V, GND)
 - Replacable car fuses (2A/5A) for each Neopixel out
 - All other GPIOs exposed + 5V/12V/VCC
+
+## References
+
+- https://github.com/bigtreetech/EBB EBB could be a good template
+- https://wled-calculator.github.io/ for fuse calculation
